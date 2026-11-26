@@ -14,4 +14,5 @@
 * [Epreuve du désert](desert-fr.md)
 * [Césarrès](cesares-fr.md)
 * [KVK](kvk-fr.md)
+* [Tournoi de pêche](peche-fr.md)
 * [Vengeance des vikings](vikings-fr.md)
