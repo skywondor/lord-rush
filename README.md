@@ -11,3 +11,4 @@
 # Evènements
 * [Epreuve du désert](desert-fr.md)
 * [Césarrès](cesares-fr.md)
+* [Vengeance des vikings](vikings-fr.md)
