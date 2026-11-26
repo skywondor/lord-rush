@@ -1,4 +1,4 @@
-[Home](README.md) / Developpement des héros
+[Lord Rush](README.md) / Développement des héros
 
 # Developpement des héros
 
