@@ -7,6 +7,7 @@
 * [Don technologique](tech-fr.md)
 * [La roulette](roulette-fr.md)
 * [Le mode VIP](vip-fr.md)
+* [Soigner les troupes](soigne-fr.md)
 
 # Evènements
 * [Epreuve du désert](desert-fr.md)
