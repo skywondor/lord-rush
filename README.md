@@ -1,2 +1,4 @@
 # lord-rush
-For Lord Rush game
+
+# Articles
+* [Développer les héros](dev-heros-fr.md)
