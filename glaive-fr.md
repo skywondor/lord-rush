@@ -173,36 +173,33 @@ Une « Téléportation avancée » gratuite se recharge toutes les 12 minutes (c
 Utilisez ces ressources sans hésiter. Elles sont gratuites ; les accumuler inutilement est une erreur.
 
 ## Stratégie de maximisation des récompenses
-Concernant l'utilisation de votre monnaie d'événement, la liste de priorités de la « Boutique Swordland » explique pourquoi l'objet « Vision de l'artisan » (Artisan's Vision) est prioritaire, et indique à quel moment privilégier les « Papiers de charme » (Charm Papers) ou les « Marteaux de forge » (Forgehammers).
+Concernant l'utilisation de votre monnaie d'événement, la liste de priorités de la « Boutique Swordland » explique pourquoi l'objet « Vision de l'artisan » est prioritaire, et indique à quel moment privilégier les « Papiers de charme » ou les « Marteaux de forge ».
 
 Les deux dimensions des récompenses
-Classement de l'alliance : déterminé par la victoire ou la défaite de votre légion. Classement personnel : déterminé par votre rang individuel en fonction de vos « Points de relique » (Relic Points) au sein de votre alliance.
+Classement de l'alliance : déterminé par la victoire ou la défaite de votre légion. Classement personnel : déterminé par votre rang individuel en fonction de vos « Points de relique » au sein de votre alliance.
 
 Point clé : il est plus avantageux d'atteindre le meilleur rang personnel dans une alliance perdante que de se situer dans les rangs inférieurs au sein d'une alliance gagnante. Donnez toujours la priorité à votre score personnel.
 
 Aperçu des paliers de récompenses
-Classement	Récompenses d'alliance	Récompenses individuelles
-Victoire	Grand coffre d'éclats de héros + gemmes	Récompenses de victoire + bonus « MVP » (meilleur joueur) pour le meilleur score
-Défaite	Récompenses de participation (toujours intéressantes)	Récompenses de base pour tous les contributeurs
-MVP (Meilleur score)	—	Bonus supplémentaire d'éclats de héros, en plus des récompenses de classement
-Meilleurs dégâts	—	Coffre de matériaux bonus pour le joueur ayant infligé le plus de dégâts
+| Classement | Récompenses d'alliance | Récompenses individuelles |
+|---|---|---|
+| Victoire | Grand coffre d'éclats de héros + gemmes | Récompenses de victoire + bonus « MVP » (meilleur joueur) pour le meilleur score |
+| Défaite | Récompenses de participation (toujours intéressantes) | Récompenses de base pour tous les contributeurs |
+| MVP (Meilleur score) | — | Bonus supplémentaire d'éclats de héros, en plus des récompenses de classement |
+| Meilleurs dégâts| — | Coffre de matériaux bonus pour le joueur ayant infligé le plus de dégâts |
 
 
-Scénario 1 : Affrontement favorable (victoire facile)
+### Scénario 1 : Affrontement favorable (victoire facile)
 Si la victoire est assurée très tôt, les bâtiments risquent de ne pas changer souvent de propriétaire, ce qui limite l'apparition des « Convois » (Baggage Trains) et les combats.
-
 Solutions :
+* Coordonnez-vous pour échanger délibérément des bâtiments avec l'adversaire, afin de provoquer l'apparition de Convois.
+* Communiquez directement avec l'alliance adverse pour organiser une récolte de points coopérative.
+* Téléportez-vous près de leur zone de déploiement pour susciter des combats.
 
-Coordonnez-vous pour échanger délibérément des bâtiments avec l'adversaire, afin de provoquer l'apparition de Convois.
-Communiquez directement avec l'alliance adverse pour organiser une récolte de points coopérative.
-Téléportez-vous près de leur zone de déploiement pour susciter des combats.
-Scénario 2 : Affrontement défavorable (vous êtes dominés)
+### Scénario 2 : Affrontement défavorable (vous êtes dominés)
 Lorsque la victoire est hors de portée, les points de relique de l'alliance perdent toute importance. Concentrez-vous alors exclusivement sur l'accumulation de points personnels.
-
 Tactiques de guérilla :
-
-Repérez des ennemis isolés ou plus faibles sur la carte et téléportez-vous à proximité.
-Si des ennemis plus puissants arrivent pour défendre leur allié, acceptez le combat : la défense rapporte 40 points personnels par tranche de 10 000 points de puissance militaire.
-Quittez la zone, puis revenez après le temps de recharge (cooldown) de 12 minutes pour répéter l'opération.
-Capturez en solo des bâtiments ennemis mal défendus, puis envoyez immédiatement toutes vos troupes disponibles pour intercepter les Convois qui y apparaissent.
-Ne restez jamais inactif dans votre zone de sécurité. Aucun point personnel, aucune contribution.
+* Repérez des ennemis isolés ou plus faibles sur la carte et téléportez-vous à proximité. Si des ennemis plus puissants arrivent pour défendre leur allié, acceptez le combat : la défense rapporte 40 points personnels par tranche de 10 000 points de puissance militaire.
+* Quittez la zone, puis revenez après le temps de recharge (cooldown) de 12 minutes pour répéter l'opération.
+* Capturez en solo des bâtiments ennemis mal défendus, puis envoyez immédiatement toutes vos troupes disponibles pour intercepter les Convois qui y apparaissent.
+* Ne restez jamais inactif dans votre zone de sécurité. Aucun point personnel, aucune contribution.
