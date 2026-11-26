@@ -12,6 +12,7 @@
 * [Soigner les troupes](soigne-fr.md)
 
 # Evènements
+* [Chasse à l'ours](ours-fr.md)
 * [Epreuve du désert](desert-fr.md)
 * [Césarrès](cesares-fr.md)
 * [KVK](kvk-fr.md)
