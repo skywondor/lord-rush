@@ -1,6 +1,7 @@
 # Lord Rush
 
 # Articles
+* [Bureau d'enrôlement](enrolement-fr.md)
 * [Dépenser mes gemmes](gems-fr.md)
 * [Développer les héros](dev-heros-fr.md)
 * [Développer son ile](ile-fr.md)
