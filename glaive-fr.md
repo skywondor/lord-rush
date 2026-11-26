@@ -93,3 +93,122 @@ Deux vagues de « Souterrains » (Undercellars) apparaissent sur la carte aux mo
 15 minutes (première vague)
 20 minutes (deuxième vague)
 Cette phase marque l'offensive finale : combats acharnés pour le Sanctuaire de l'Épée, changements de contrôle des bâtiments à la dernière minute et courses aux convois de ravitaillement.
+
+Bâtiments à bonus : pourquoi ils sont plus importants que ne le suggère leur valeur en points
+Les nouveaux joueurs, en voyant la faible valeur en points du Clocher, des Écuries royales, de la Salle de la Réforme et du Camp de mercenaires, ont tendance à les négliger. C'est une erreur.
+
+Le Clocher est le bâtiment à bonus le plus important durant la phase 1. Lorsqu'il est sous votre contrôle, le temps de capture de tous les autres bâtiments est réduit de moitié. Comme les bonus obtenus lors de la première prise de contrôle sont considérables, cette réduction du temps de capture s'avère immédiatement rentable.
+
+Les Écuries royales déterminent le nombre de fois que votre alliance peut se repositionner au cours d'une heure. Réduire le délai de récupération du « Téléporteur avancé » (gratuit) de 12 à 6 minutes offre une occasion supplémentaire de disputer un bâtiment, de réagir à une attaque ou d'échapper à un combat mal engagé.
+
+La Salle de la Réforme joue un rôle déterminant durant la phase 2. Un bonus de 15 % à la fois sur l'attaque et sur la réduction des dégâts peut faire basculer l'issue de presque n'importe quel affrontement direct entre troupes. Capturez-la dès qu'elle devient disponible.
+
+Le Camp de mercenaires est, pris isolément, le moins prioritaire (les éliminations effectuées par son biais ne rapportent pas de points de combat personnels) ; il sert toutefois d'outil pour affaiblir l'adversaire avant un ralliement majeur. Utilisez-le en soutien d'une offensive imminente, et non de manière isolée.
+
+## Rôles et responsabilités
+Trois rôles principaux déterminent la réussite sur le champ de bataille. En voici le détail :
+
+### Tank (Défenseur / Chef de garnison)
+Mission : Tenir des bâtiments stratégiques, envoyer des renforts et diriger des rassemblements défensifs.
+
+En pratique : Vous placez votre troupe principale en garnison dans le Sanctuaire ou le Sanctuaire de l'Épée. Vous envoyez des troupes secondaires (plus faibles) pour renforcer les bâtiments alliés sous pression. Vous vous coordonnez avec un autre « tank » pour couvrir les positions adjacentes ; l'idéal est de pouvoir maintenir 2 à 3 points stratégiques sans trop vous disperser.
+
+### Héros privilégiés : Privilégiez les héros orientés vers la défense, équipés des accessoires (widgets) de dernière génération. Le duo Howard + Quinn est une combinaison classique : ensemble, ils peuvent réduire les dégâts subis jusqu'à 40 %.
+
+### Attaquant (Chef de rassemblement)
+Mission : Capturer des bâtiments, incendier les cités ennemies pour forcer des replis et déstabiliser les garnisons adverses.
+
+En pratique : Vous vous téléportez de manière offensive sur des bâtiments disputés ou faiblement défendus, lancez des rassemblements, puis passez à une autre cible dès l'arrivée d'un défenseur. Vous incendiez également les cités ennemies pour contraindre les joueurs à abandonner leurs positions : une cité attaquée est forcée de se téléporter loin de la garnison, ce qui affaiblit les lignes ennemies.
+
+Règle d'or : Les attaquants capturent et passent à la suite ; les défenseurs tiennent et renforcent. Ne laissez jamais vos attaquants s'installer durablement dans des garnisons.
+
+### Soutien / Renfort
+Mission : Occuper des emplacements dans les garnisons pour empêcher les attaques en solo, récupérer des convois de ravitaillement (Baggage Trains) et collecter des ressources dans les sous-sols (Undercellars).
+
+En pratique : Vous rejoignez des rassemblements avec une troupe secondaire, renforcez des bâtiments et récoltez activement des convois de ravitaillement lorsque les bâtiments changent de contrôle. Pour les joueurs qui ne dépensent pas d'argent (free-to-play) ou ceux de niveau intermédiaire, ce rôle permet d'apporter une contribution significative sans s'exposer inutilement.
+
+Stratégie par phases
+Préparation avant la bataille (avant le début de l'heure prévue)
+La présence avant tout. L'élément le plus déterminant pour votre alliance est de s'assurer que tous les membres inscrits sont bien présents. Un joueur puissant qui ne participe pas gonfle artificiellement votre indice de puissance (utilisé pour le matchmaking) sans apporter aucune contribution réelle.
+
+Attribuez les rôles avant la bataille. Désignez explicitement les tanks, les attaquants et les soutiens. Pour les alliances compétitives, utilisez le chat vocal sur Discord.
+
+Utilisez le planificateur de bâtiments (Castle Scheduler) pour définir à l'avance qui sera responsable de chaque structure. Cette répartition préalable des rôles évite les erreurs du type « je pensais que quelqu'un d'autre s'en occupait ».
+
+Videz votre infirmerie. Vous ne pouvez pas entrer sur le champ de bataille si vous avez déjà des troupes blessées.
+
+Phase 1 : La ruée initiale (0:00 – 15 min)
+Ordre de priorité :
+
+Écuries royales (Royal Stables) — À capturer en priorité. Elles réduisent de moitié le temps de recharge des téléportations pour toute l'alliance, ce qui accélère considérablement la capacité de repositionnement.
+Clocher (Bell Tower) — Réduit de moitié le temps de capture de tous les bâtiments suivants.
+Sanctuaire (Sanctum) — Lancez la génération de vos points. Essayez d'en contrôler au moins un, idéalement les deux.
+Abbayes (Abbeys) — Occupez les emplacements de marche restants. Plus vous contrôlez de bâtiments, plus vous cumulez de bonus de « première prise », ce qui vous donne un avantage décisif dès le début.
+Harcèlement des cités — Vos joueurs les plus puissants doivent exercer une pression simultanée sur les cités ennemies pour les forcer à battre en retraite.
+Répartition des rôles durant la Phase 1 :
+
+Les attaquants s'emparent des bâtiments et les transmettent immédiatement aux défenseurs. Ces derniers garnissent les structures capturées avec suffisamment de renforts pour empêcher toute tentative de prise en solitaire par l'ennemi.
+
+Utilisation de la zone sécurisée : Vous pouvez rester dans votre zone de départ tout en envoyant vos troupes au combat. Les joueurs ayant une puissance plus modeste peuvent lancer leurs marches depuis cette zone, récupérer des convois de ravitaillement (Baggage Trains) à distance et exploiter les sous-sols (Undercellars) sans exposer inutilement leurs cités.
+
+Phase 2 : Le tournant de mi-bataille (à partir de 15 min)
+Lorsque les structures centrales deviennent accessibles, toute la dynamique de la bataille est bouleversée.
+
+Salle de la Réforme (Hall of Reformation) — À capturer immédiatement. Le bonus de +15 % en attaque et de +15 % en réduction des dégâts s'applique à toutes vos troupes lors de chaque affrontement ultérieur.
+
+Stratégie concernant le Sanctuaire de l'Épée (Swordshrine) : La capture du Sanctuaire de l'Épée n'est pas indispensable pour remporter la victoire. Concentrer toutes vos ressources sur le Sanctuaire de l'Épée (Swordshrine) tout en abandonnant les Sanctuaires (Sanctums) et les Abbayes est une stratégie perdante.
+
+Si vous parvenez à le conserver, tant mieux : vous bénéficiez du bonus de contrôle initial et d'un revenu constant.
+S'il est trop disputé, changez de tactique : concentrez-vous plutôt sur le contrôle des deux Sanctuaires, du Clocher (Bell Tower), du site de Réforme (Reformation) et des Abbayes.
+Camp de mercenaires : utilisez-le pour affaiblir vos cibles avant une attaque. Lancez une offensive de mercenaires sur un bâtiment ennemi, puis enchaînez immédiatement avec vos propres troupes.
+
+Phase 3 : Fin de partie (à partir de 20 minutes)
+Les « Sous-sols » (Undercellars) apparaissent pleinement. Affectez-y des joueurs en soutien ou utilisez vos emplacements de marche disponibles pour les récolter ; ils sont souvent peu disputés.
+
+Les 5 à 10 dernières minutes — l'opportunité de renverser la situation : si vous êtes en retard, c'est le moment où une agression concentrée est la plus payante. Les bâtiments ennemis qui accumulent d'importantes réserves de points sont des cibles prioritaires : en prendre le contrôle permet de récupérer de grandes quantités de « Convois » (Baggage Trains).
+
+Soins et récupération des troupes
+La méthode du « retrait pour soigner »
+Quitter le champ de bataille permet de soigner instantanément et gratuitement toutes vos troupes. Un délai de réapparition de 12 minutes s'applique alors avant que vous ne puissiez revenir au combat.
+
+Si vous avez des centaines de milliers de soldats à l'infirmerie, il est souvent plus avantageux de passer 12 minutes à les soigner hors du champ de bataille pour revenir en pleine forme, plutôt que de continuer à combattre avec des effectifs réduits.
+
+Accélérations et téléportations gratuites
+Vous disposez au départ de 5 accélérations de marche rechargeables, avec une capacité maximale de 30.
+Une « Téléportation avancée » gratuite se recharge toutes les 12 minutes (ce délai est réduit à 6 minutes si vous contrôlez les Écuries royales).
+Utilisez ces ressources sans hésiter. Elles sont gratuites ; les accumuler inutilement est une erreur.
+
+## Stratégie de maximisation des récompenses
+Concernant l'utilisation de votre monnaie d'événement, la liste de priorités de la « Boutique Swordland » explique pourquoi l'objet « Vision de l'artisan » (Artisan's Vision) est prioritaire, et indique à quel moment privilégier les « Papiers de charme » (Charm Papers) ou les « Marteaux de forge » (Forgehammers).
+
+Les deux dimensions des récompenses
+Classement de l'alliance : déterminé par la victoire ou la défaite de votre légion. Classement personnel : déterminé par votre rang individuel en fonction de vos « Points de relique » (Relic Points) au sein de votre alliance.
+
+Point clé : il est plus avantageux d'atteindre le meilleur rang personnel dans une alliance perdante que de se situer dans les rangs inférieurs au sein d'une alliance gagnante. Donnez toujours la priorité à votre score personnel.
+
+Aperçu des paliers de récompenses
+Classement	Récompenses d'alliance	Récompenses individuelles
+Victoire	Grand coffre d'éclats de héros + gemmes	Récompenses de victoire + bonus « MVP » (meilleur joueur) pour le meilleur score
+Défaite	Récompenses de participation (toujours intéressantes)	Récompenses de base pour tous les contributeurs
+MVP (Meilleur score)	—	Bonus supplémentaire d'éclats de héros, en plus des récompenses de classement
+Meilleurs dégâts	—	Coffre de matériaux bonus pour le joueur ayant infligé le plus de dégâts
+
+
+Scénario 1 : Affrontement favorable (victoire facile)
+Si la victoire est assurée très tôt, les bâtiments risquent de ne pas changer souvent de propriétaire, ce qui limite l'apparition des « Convois » (Baggage Trains) et les combats.
+
+Solutions :
+
+Coordonnez-vous pour échanger délibérément des bâtiments avec l'adversaire, afin de provoquer l'apparition de Convois.
+Communiquez directement avec l'alliance adverse pour organiser une récolte de points coopérative.
+Téléportez-vous près de leur zone de déploiement pour susciter des combats.
+Scénario 2 : Affrontement défavorable (vous êtes dominés)
+Lorsque la victoire est hors de portée, les points de relique de l'alliance perdent toute importance. Concentrez-vous alors exclusivement sur l'accumulation de points personnels.
+
+Tactiques de guérilla :
+
+Repérez des ennemis isolés ou plus faibles sur la carte et téléportez-vous à proximité.
+Si des ennemis plus puissants arrivent pour défendre leur allié, acceptez le combat : la défense rapporte 40 points personnels par tranche de 10 000 points de puissance militaire.
+Quittez la zone, puis revenez après le temps de recharge (cooldown) de 12 minutes pour répéter l'opération.
+Capturez en solo des bâtiments ennemis mal défendus, puis envoyez immédiatement toutes vos troupes disponibles pour intercepter les Convois qui y apparaissent.
+Ne restez jamais inactif dans votre zone de sécurité. Aucun point personnel, aucune contribution.
